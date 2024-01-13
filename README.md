@@ -29,7 +29,11 @@
 - maven项目：否
 - 硬件环境：Windows 或者 Mac OS
 
+## 获取方式
 
+下方扫一扫关注后，后台回复关键词：**网络教学**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 ## 4、功能介绍
 
 ### 4.1 登录
